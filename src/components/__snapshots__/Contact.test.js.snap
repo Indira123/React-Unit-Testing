@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Contact component renders correctly App should render correctly 1`] = `ShallowWrapper {}`;
+
+exports[`Contact component renders correctly and snapshot App should render correctly 1`] = `ShallowWrapper {}`;
+
+exports[`Contact component renders correctly without props App should render correctly 1`] = `ShallowWrapper {}`;
